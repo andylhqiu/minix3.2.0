@@ -1,0 +1,4 @@
+*.gcno
+*.gcda
+lcov.gas2ack
+gas2ack

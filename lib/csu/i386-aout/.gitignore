@@ -1,0 +1,4 @@
+crtso.o
+*.gcno
+*.gcda
+lcov.

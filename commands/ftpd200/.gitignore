@@ -1,0 +1,4 @@
+*.gcno
+*.gcda
+lcov.in.ftpd
+in.ftpd
